@@ -1,3 +1,6 @@
+TC : O(2N) 
+SC : O(N) 
+
 class Solution{
 public:
     vector<int> findTwoElement(vector<int> arr, int n) {
