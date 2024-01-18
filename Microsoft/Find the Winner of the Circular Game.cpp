@@ -1,4 +1,4 @@
-Find the Winner of the Circular Game or Joseph Problem 
+Find the Winner of the Circular Game or Josephus Problem
 
 Time complexity: T(N-1)+C = O(N)
 Space complexity: O(1), As we are not using any extra space
